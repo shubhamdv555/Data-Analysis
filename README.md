@@ -1,3 +1,2 @@
 # Data-Analysis
-
-Here some data analysis projects using Python.
+Explore a collection of Python-based data analysis projects in this repository.
